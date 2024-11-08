@@ -65,9 +65,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ocamilomontealegre&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 10px; max-width: 1200px; height: 400px; justify-items: center; align-items: center;">
+
+  <div style="grid-column: 1; grid-row: 1; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ocamilomontealegre&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;"/>
+  </div>
+
+  <div style="grid-column: 1; grid-row: 2; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocamilomontealegre&theme=radical" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;"/>
+  </div>
+
+  <div style="grid-column: 2; grid-row: 1 / 3; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocamilomontealegre&layout=compact&langs_count=10&theme=radical" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;"/>
+  </div>
+</div>
 
 ## 📫 How to Reach Me
 
