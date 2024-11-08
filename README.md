@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Camilo 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/ocamilomontealegre.png" alt="Camilo" width="150" style="border-radius: 50%;" />
+  <img src="./assets/images/cat.gif" alt="Camilo" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   </strong>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"  alt="JavaScript" />
   </a>
