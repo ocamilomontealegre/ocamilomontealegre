@@ -16,6 +16,12 @@
 </p>
 
 <p align="center">
+  <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">
+    <img src="https://img.shields.io/badge/-Software_Architecture-4E5B5B?style=flat&logo=uml&logoColor=ffffff" alt="Software Architecture" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank">
+    <img src="https://img.shields.io/badge/-System_Design-3E8E41?style=flat&logo=thunderstore&logoColor=ffffff" alt="System Design" />
+  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"  alt="JavaScript" />
   </a>
@@ -49,11 +55,11 @@
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=ffffff" alt="Flutter" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
-  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff" alt="MongoDB" />
   </a>
 </p>
 
