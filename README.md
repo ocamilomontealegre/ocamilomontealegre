@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
   </a>
   <a href="https://go.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Go-02569B?style=flat&logo=flutter&logoColor=ffffff" alt="Go" />
+    <img src="https://img.shields.io/badge/-Go-02569B?style=flat&logo=go&logoColor=ffffff" alt="Go" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
