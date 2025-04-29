@@ -22,9 +22,6 @@
   <a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank">
     <img src="https://img.shields.io/badge/-System_Design-3E8E41?style=flat&logo=thunderstore&logoColor=ffffff" alt="System Design" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"  alt="JavaScript" />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript" />
   </a>
